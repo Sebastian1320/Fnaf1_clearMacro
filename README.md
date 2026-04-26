@@ -1,4 +1,3 @@
-# Fnaf1_clearMacro
 # 🎮 FNAF1 Bot — Automatic Gameplay Script
 
 > Inspired by the original idea from (https://www.youtube.com/watch?v=BaX71RpF7rI)
@@ -62,6 +61,7 @@ During each night it:
 
 - The coordinates in the script are stored as **screen ratios** (0.0 to 1.0), so they adapt to any resolution automatically.
 - The game window must be **visible and not minimized** while the bot runs.
+- If you want to stop the script, close the game and drag the mouse to one of your main screen corners(Not recommended for laptop users without mouse).
 - The README was AI generated.
 
 ---
@@ -140,6 +140,7 @@ Durante cada noche:
 
 - Las coordenadas del script están guardadas como **proporciones de pantalla** (0.0 a 1.0), por lo que se adaptan automáticamente a cualquier resolución.
 - La ventana del juego debe estar **visible y no minimizada** mientras el bot corre.
+- Si se desea terminar el script, cierre el juego y arrastre el cursor a alguna de las esquinas de su monitor principal (No recomendado para usuarios de laptop sin mouse)
 - El README fue generado con IA.
 
 ---
